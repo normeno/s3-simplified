@@ -1,6 +1,6 @@
 <?php
 
-namespace League\Skeleton;
+namespace normeno\s3simplified;
 
 class SkeletonClass
 {
